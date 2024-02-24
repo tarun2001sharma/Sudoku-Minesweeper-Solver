@@ -29,7 +29,8 @@ To solve a puzzle, run `main.py` with the puzzle input as command-line arguments
 
 ### Solving Sudoku
 
-![Sudoku Solver](https://github.com/tarun2001sharma/Sudoku-Minesweeper-Solver/assets/59308544/91f23b12-07bb-4c23-8b7b-991055f56d29) 
+![Sudoku Solver](https://github.com/tarun2001sharma/Sudoku-Minesweeper-Solver/assets/59308544/91f23b12-07bb-4c23-8b7b-991055f56d29)
+
 *Figure 1: Sudoku Solver Interface*
 
 ```bash
