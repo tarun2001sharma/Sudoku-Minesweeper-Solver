@@ -1,8 +1,8 @@
 
 # Sudoku/Minesweeper Solver Program
 
-![image](https://github.com/tarun2001sharma/Sudoku-Minesweeper-Solver/assets/59308544/91f23b12-07bb-4c23-8b7b-991055f56d29) 
-![image](https://github.com/tarun2001sharma/Sudoku-Minesweeper-Solver/assets/59308544/d3edf38a-693c-4dd7-af74-32ccf26a5b89)
+![Sudoku Solver](https://github.com/tarun2001sharma/Sudoku-Minesweeper-Solver/assets/59308544/91f23b12-07bb-4c23-8b7b-991055f56d29) ![Minesweeper Solver](https://github.com/tarun2001sharma/Sudoku-Minesweeper-Solver/assets/59308544/d3edf38a-693c-4dd7-af74-32ccf26a5b89)  
+*Figure: Left - Sudoku Solver Interface, Right - Minesweeper Solver Interface*
 
 This project presents a versatile solver for both Sudoku and Minesweeper puzzles, leveraging the Davis-Putnam-Logemann-Loveland (DPLL) algorithm. The solver converts puzzles into Conjunctive Normal Form (CNF) and employs propositional logic to find solutions efficiently. This README provides all the necessary information to get started, including system requirements, installation instructions, and how to use the solver.
 
