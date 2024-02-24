@@ -69,7 +69,4 @@ Runtime varies based on the puzzle's difficulty and the mode selected:
 
 This project is open for contributions. Whether you'd like to add new features, improve the algorithm's efficiency, or extend support to Minesweeper puzzles, your input is welcome.
 
-## License
-
-Specify your project's license here, detailing how others can use or contribute to your code.
 
