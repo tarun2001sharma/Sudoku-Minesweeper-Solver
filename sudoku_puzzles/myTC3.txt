@@ -1,0 +1,10 @@
+!P M 
+!P !N
+Q M
+Q !N
+!M N P !Q
+!N M
+!N !Q
+!P M
+!P !Q
+!N !Q !P
